@@ -1,0 +1,140 @@
+{
+  "dogFood": [
+    {
+      "id": 1,
+      "name": "Royal Canin Adult Dog Food",
+      "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=300",
+      "description": "Premium nutrition for adult dogs with balanced proteins and vitamins",
+      "price": "$45.99",
+      "category": "Dog Food",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Hill's Science Diet Puppy",
+      "image": "https://images.unsplash.com/photo-1551717743-49959800b1f6?w=300",
+      "description": "Specially formulated for growing puppies with DHA for brain development",
+      "price": "$52.99",
+      "category": "Dog Food",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Blue Buffalo Wilderness",
+      "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=300",
+      "description": "High-protein, grain-free dog food with real meat",
+      "price": "$38.99",
+      "category": "Dog Food",
+      "rating": 4.6
+    }
+  ],
+  "catFood": [
+    {
+      "id": 4,
+      "name": "Whiskas Adult Cat Food",
+      "image": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?w=300",
+      "description": "Complete nutrition for adult cats with real fish and chicken",
+      "price": "$28.99",
+      "category": "Cat Food",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Royal Canin Kitten Food",
+      "image": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=300",
+      "description": "Tailored nutrition for kittens up to 12 months",
+      "price": "$35.99",
+      "category": "Cat Food",
+      "rating": 4.9
+    }
+  ],
+  "toys": [
+    {
+      "id": 6,
+      "name": "Interactive Puzzle Feeder",
+      "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=300",
+      "description": "Mental stimulation toy that slows down eating",
+      "price": "$24.99",
+      "category": "Toys",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Rope Chew Toy",
+      "image": "https://images.unsplash.com/photo-1605568427561-40dd23c2acea?w=300",
+      "description": "Durable cotton rope toy for aggressive chewers",
+      "price": "$12.99",
+      "category": "Toys",
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "name": "Laser Pointer Cat Toy",
+      "image": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=300",
+      "description": "Interactive laser toy to keep cats active and engaged",
+      "price": "$15.99",
+      "category": "Toys",
+      "rating": 4.2
+    }
+  ],
+  "grooming": [
+    {
+      "id": 9,
+      "name": "Professional Pet Brush",
+      "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=300",
+      "description": "Reduces shedding by up to 90% with stainless steel edge",
+      "price": "$29.99",
+      "category": "Grooming",
+      "rating": 4.7
+    },
+    {
+      "id": 10,
+      "name": "Pet Nail Clippers",
+      "image": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?w=300",
+      "description": "Safe and precise nail trimming with safety guard",
+      "price": "$18.99",
+      "category": "Grooming",
+      "rating": 4.5
+    }
+  ],
+  "bedding": [
+    {
+      "id": 11,
+      "name": "Orthopedic Pet Bed",
+      "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=300",
+      "description": "Memory foam bed for joint support and comfort",
+      "price": "$79.99",
+      "category": "Bedding",
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "name": "Waterproof Pet Jacket",
+      "image": "https://images.unsplash.com/photo-1605568427561-40dd23c2acea?w=300",
+      "description": "Keep your pet dry and warm in all weather conditions",
+      "price": "$34.99",
+      "category": "Apparel",
+      "rating": 4.4
+    }
+  ],
+  "supplements": [
+    {
+      "id": 13,
+      "name": "Joint Health Supplements",
+      "image": "https://images.unsplash.com/photo-1574144611937-0df059b5ef3e?w=300",
+      "description": "Glucosamine and chondroitin for healthy joints",
+      "price": "$42.99",
+      "category": "Health Supplements",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "name": "Omega-3 Fish Oil",
+      "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=300",
+      "description": "Promotes healthy skin and shiny coat",
+      "price": "$26.99",
+      "category": "Health Supplements",
+      "rating": 4.5
+    }
+  ]
+}
